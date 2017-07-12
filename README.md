@@ -1,4 +1,4 @@
-# Sergei Romanenko's HitHub Home Page
+# Sergei Romanenko's GitHub Home Page
 
 My [Home Page](http://pat.keldysh.ru/~roman/)
 at Keldysh Institute of Applied Mathematics.
