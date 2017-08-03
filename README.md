@@ -1,4 +1,4 @@
-# Sergei Romanenko's GitHub Home Page
+# Sergei A. Romanenko's GitHub Home Page
 
 My [Home Page](http://pat.keldysh.ru/~roman/)
 at Keldysh Institute of Applied Mathematics.
@@ -30,3 +30,6 @@ at Keldysh Institute of Applied Mathematics.
   specializer (based on partial evaluation) for a subset of Scheme.
   See also [a version for Racket](https://github.com/annenkov/unmix)
   by Danil Annenkov.
+
+* [Notes on supercompilation](https://sergei-romanenko.github.io/scp-notes-ru/)
+  (in Russian).
