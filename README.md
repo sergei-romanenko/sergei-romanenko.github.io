@@ -24,7 +24,8 @@ at Keldysh Institute of Applied Mathematics.
     - [A collection of samples in
         Agda](https://github.com/sergei-romanenko/agda-samples).
 
-* [SPSC: A Small Positive Supercompiler in Scala](https://sergei-romanenko.github.io/spsc/).
+* [SPSC: A Small Positive Supercompiler in Scala, Haskell, Python, Ruby &
+    JavaScript](https://sergei-romanenko.github.io/spsc/).
 
 * [HOSC: A Higher-Order Supercompiler in Scala](https://sergei-romanenko.github.io/hosc-docs/).
 
