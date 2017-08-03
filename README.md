@@ -26,6 +26,8 @@ at Keldysh Institute of Applied Mathematics.
 
 * [SPSC: A Small Positive Supercompiler in Scala](https://sergei-romanenko.github.io/spsc/).
 
+* [HOSC: A Higher-Order Supercompiler in Scala](https://sergei-romanenko.github.io/hosc-docs/).
+
 * [Unmix](https://github.com/sergei-romanenko/unmix), a program
   specializer (based on partial evaluation) for a subset of Scheme.
   See also [a version for Racket](https://github.com/annenkov/unmix)
