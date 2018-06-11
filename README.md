@@ -10,8 +10,11 @@ at Keldysh Institute of Applied Mathematics.
 * A number of proofs formalized in Agda:
     - [A simple supercompiler formally verified in
         Agda](https://github.com/sergei-romanenko/agda-simple-scp).
-    - [Staged multi-result supercompilation (a model
-        in Agda)](https://github.com/sergei-romanenko/staged-mrsc-agda).
+    - Staged multi-result supercompilation: a model
+        [in Agda](https://github.com/sergei-romanenko/staged-mrsc-agda)
+        and an implementation
+        [in Scala](https://github.com/sergei-romanenko/staged-mrsc-scala)
+        (without proofs).
     - [Almost-full
         relations](https://github.com/sergei-romanenko/agda-almost-full):
         an Agda version for "Stop when you are almost-full".
